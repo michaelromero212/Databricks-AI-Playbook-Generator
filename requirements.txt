@@ -1,0 +1,9 @@
+openai
+streamlit
+python-dotenv
+pandas
+markdown
+pyyaml
+nbformat
+
+pytest

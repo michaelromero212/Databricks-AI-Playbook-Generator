@@ -1,0 +1,11 @@
+client: GlobalFinBank
+objective: Build a real-time fraud detection and risk scoring platform.
+timeline: 6 months
+stakeholders:
+  - Sarah Connor (CTO)
+  - Kyle Reese (Security Lead)
+  - T-800 (Data Architect)
+compliance:
+  - GDPR
+  - CCPA
+  - PCI-DSS

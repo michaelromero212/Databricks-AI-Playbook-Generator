@@ -1,0 +1,11 @@
+client: ACME Corp
+objective: Modernize data pipelines into Databricks Delta Lake
+timeline: 6 weeks
+artifacts:
+  - bronze_to_silver.sql
+  - ingest_notebook.py
+data_sources:
+  - AWS S3
+success_metrics:
+  - Pipelines operate hourly
+  - Dashboard refreshes daily

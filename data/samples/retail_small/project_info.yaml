@@ -1,0 +1,6 @@
+client: MomPopRetail
+objective: Migrate daily sales reporting from Excel to Databricks.
+timeline: 4 weeks
+stakeholders:
+  - John Doe (Owner)
+  - Jane Smith (Analyst)
