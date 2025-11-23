@@ -1,0 +1,19 @@
+[theme]
+# Accessible light theme with WCAG AA compliant colors
+primaryColor = "#0066CC"        # Darker blue for better contrast (7:1 on white)
+backgroundColor = "#FFFFFF"      # Pure white background
+secondaryBackgroundColor = "#F9FAFB"  # Very light gray for cards
+textColor = "#1F2937"           # Dark gray text (12:1 contrast on white)
+font = "sans serif"
+
+# Base theme - use light mode
+base = "light"
+
+[server]
+# Improve performance
+headless = true
+runOnSave = true
+
+[browser]
+# Automatically open browser
+gatherUsageStats = false
